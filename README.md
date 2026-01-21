@@ -165,9 +165,9 @@ Code Arduino (ATTinyCore)
 
 📂 Contenu du dépôt
 
-/schematics → schéma électronique
+/schéma électronique
 
-/pcb → PCB (à venir / version finale dans une prochaine vidéo)
+/pcb → PCB dont le Gerber pour faire réaliser le PCB
 
 /firmware → code ATtiny85
 
@@ -181,11 +181,6 @@ Code Arduino (ATTinyCore)
 
 ℹ️ Les LEDs donnent un diagnostic fonctionnel, pas une capacité en mAh
 
-📺 Vidéos associées
-
-Présentation du schéma et démonstration sur breadboard
-
-Vidéo suivante : PCB final et réalisation complète
 
 👉 Chaîne YouTube :
 https://www.youtube.com/c/ClaudeDufourmont
