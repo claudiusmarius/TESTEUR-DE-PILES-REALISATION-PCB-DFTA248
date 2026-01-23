@@ -1,5 +1,7 @@
 # TESTEUR-DE-PILES-REALISATION-PCB-DFTA248
 
+Vidéo YouTube : https://youtu.be/V9YFY4Gzfeo
+
 🔋 Testeur de piles AA / AAA intelligent — ATtiny85
 
 Projet de testeur de piles AA et AAA 1,5 V basé sur un microcontrôleur ATtiny85, intégrant une mesure à vide, une mesure sous charge contrôlée et une analyse de cohérence afin de fournir un diagnostic réaliste de l’état de la pile.
