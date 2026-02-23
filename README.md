@@ -2,6 +2,11 @@
 
 Vidéo YouTube : https://youtu.be/V9YFY4Gzfeo
 
+ATTENTION : J'ai réalisé une version V2 e complément de celle ci pour tester aussi les piles 9V :
+https://github.com/claudiusmarius/TESTEUR-DE-PILES---AJOUT-PILES-9V-DFTA248-V2
+https://youtu.be/nnxStHscltk
+
+
 🔋 Testeur de piles AA / AAA intelligent — ATtiny85
 
 Projet de testeur de piles AA et AAA 1,5 V basé sur un microcontrôleur ATtiny85, intégrant une mesure à vide, une mesure sous charge contrôlée et une analyse de cohérence afin de fournir un diagnostic réaliste de l’état de la pile.
